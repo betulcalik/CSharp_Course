@@ -1,0 +1,10 @@
+D:\C#\7-CheckersDemo\CheckersDemo\CheckersDemo\bin\Debug\CheckersDemo.exe.config
+D:\C#\7-CheckersDemo\CheckersDemo\CheckersDemo\bin\Debug\CheckersDemo.exe
+D:\C#\7-CheckersDemo\CheckersDemo\CheckersDemo\bin\Debug\CheckersDemo.pdb
+D:\C#\7-CheckersDemo\CheckersDemo\CheckersDemo\obj\Debug\CheckersDemo.csprojAssemblyReference.cache
+D:\C#\7-CheckersDemo\CheckersDemo\CheckersDemo\obj\Debug\CheckersDemo.Form1.resources
+D:\C#\7-CheckersDemo\CheckersDemo\CheckersDemo\obj\Debug\CheckersDemo.Properties.Resources.resources
+D:\C#\7-CheckersDemo\CheckersDemo\CheckersDemo\obj\Debug\CheckersDemo.csproj.GenerateResource.cache
+D:\C#\7-CheckersDemo\CheckersDemo\CheckersDemo\obj\Debug\CheckersDemo.csproj.CoreCompileInputs.cache
+D:\C#\7-CheckersDemo\CheckersDemo\CheckersDemo\obj\Debug\CheckersDemo.exe
+D:\C#\7-CheckersDemo\CheckersDemo\CheckersDemo\obj\Debug\CheckersDemo.pdb

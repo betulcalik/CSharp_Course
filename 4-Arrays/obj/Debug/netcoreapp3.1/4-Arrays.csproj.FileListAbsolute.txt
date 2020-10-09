@@ -1,0 +1,13 @@
+D:\C#\4-Arrays\bin\Debug\netcoreapp3.1\4-Arrays.exe
+D:\C#\4-Arrays\bin\Debug\netcoreapp3.1\4-Arrays.deps.json
+D:\C#\4-Arrays\bin\Debug\netcoreapp3.1\4-Arrays.runtimeconfig.json
+D:\C#\4-Arrays\bin\Debug\netcoreapp3.1\4-Arrays.runtimeconfig.dev.json
+D:\C#\4-Arrays\bin\Debug\netcoreapp3.1\4-Arrays.dll
+D:\C#\4-Arrays\bin\Debug\netcoreapp3.1\4-Arrays.pdb
+D:\C#\4-Arrays\obj\Debug\netcoreapp3.1\4-Arrays.csprojAssemblyReference.cache
+D:\C#\4-Arrays\obj\Debug\netcoreapp3.1\4-Arrays.AssemblyInfoInputs.cache
+D:\C#\4-Arrays\obj\Debug\netcoreapp3.1\4-Arrays.AssemblyInfo.cs
+D:\C#\4-Arrays\obj\Debug\netcoreapp3.1\4-Arrays.csproj.CoreCompileInputs.cache
+D:\C#\4-Arrays\obj\Debug\netcoreapp3.1\4-Arrays.dll
+D:\C#\4-Arrays\obj\Debug\netcoreapp3.1\4-Arrays.pdb
+D:\C#\4-Arrays\obj\Debug\netcoreapp3.1\4-Arrays.genruntimeconfig.cache

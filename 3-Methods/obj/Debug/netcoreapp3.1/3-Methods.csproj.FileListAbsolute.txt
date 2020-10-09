@@ -1,0 +1,13 @@
+D:\C#\3-Methods\bin\Debug\netcoreapp3.1\3-Methods.exe
+D:\C#\3-Methods\bin\Debug\netcoreapp3.1\3-Methods.deps.json
+D:\C#\3-Methods\bin\Debug\netcoreapp3.1\3-Methods.runtimeconfig.json
+D:\C#\3-Methods\bin\Debug\netcoreapp3.1\3-Methods.runtimeconfig.dev.json
+D:\C#\3-Methods\bin\Debug\netcoreapp3.1\3-Methods.dll
+D:\C#\3-Methods\bin\Debug\netcoreapp3.1\3-Methods.pdb
+D:\C#\3-Methods\obj\Debug\netcoreapp3.1\3-Methods.csprojAssemblyReference.cache
+D:\C#\3-Methods\obj\Debug\netcoreapp3.1\3-Methods.AssemblyInfoInputs.cache
+D:\C#\3-Methods\obj\Debug\netcoreapp3.1\3-Methods.AssemblyInfo.cs
+D:\C#\3-Methods\obj\Debug\netcoreapp3.1\3-Methods.csproj.CoreCompileInputs.cache
+D:\C#\3-Methods\obj\Debug\netcoreapp3.1\3-Methods.dll
+D:\C#\3-Methods\obj\Debug\netcoreapp3.1\3-Methods.pdb
+D:\C#\3-Methods\obj\Debug\netcoreapp3.1\3-Methods.genruntimeconfig.cache

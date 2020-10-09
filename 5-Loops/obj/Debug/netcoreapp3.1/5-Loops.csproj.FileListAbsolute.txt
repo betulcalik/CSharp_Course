@@ -1,0 +1,13 @@
+D:\C#\5-Loops\bin\Debug\netcoreapp3.1\5-Loops.exe
+D:\C#\5-Loops\bin\Debug\netcoreapp3.1\5-Loops.deps.json
+D:\C#\5-Loops\bin\Debug\netcoreapp3.1\5-Loops.runtimeconfig.json
+D:\C#\5-Loops\bin\Debug\netcoreapp3.1\5-Loops.runtimeconfig.dev.json
+D:\C#\5-Loops\bin\Debug\netcoreapp3.1\5-Loops.dll
+D:\C#\5-Loops\bin\Debug\netcoreapp3.1\5-Loops.pdb
+D:\C#\5-Loops\obj\Debug\netcoreapp3.1\5-Loops.csprojAssemblyReference.cache
+D:\C#\5-Loops\obj\Debug\netcoreapp3.1\5-Loops.AssemblyInfoInputs.cache
+D:\C#\5-Loops\obj\Debug\netcoreapp3.1\5-Loops.AssemblyInfo.cs
+D:\C#\5-Loops\obj\Debug\netcoreapp3.1\5-Loops.csproj.CoreCompileInputs.cache
+D:\C#\5-Loops\obj\Debug\netcoreapp3.1\5-Loops.dll
+D:\C#\5-Loops\obj\Debug\netcoreapp3.1\5-Loops.pdb
+D:\C#\5-Loops\obj\Debug\netcoreapp3.1\5-Loops.genruntimeconfig.cache
