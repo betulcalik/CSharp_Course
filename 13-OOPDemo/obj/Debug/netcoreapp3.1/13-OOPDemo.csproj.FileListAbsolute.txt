@@ -1,0 +1,13 @@
+D:\C#\13-OOPDemo\bin\Debug\netcoreapp3.1\13-OOPDemo.exe
+D:\C#\13-OOPDemo\bin\Debug\netcoreapp3.1\13-OOPDemo.deps.json
+D:\C#\13-OOPDemo\bin\Debug\netcoreapp3.1\13-OOPDemo.runtimeconfig.json
+D:\C#\13-OOPDemo\bin\Debug\netcoreapp3.1\13-OOPDemo.runtimeconfig.dev.json
+D:\C#\13-OOPDemo\bin\Debug\netcoreapp3.1\13-OOPDemo.dll
+D:\C#\13-OOPDemo\bin\Debug\netcoreapp3.1\13-OOPDemo.pdb
+D:\C#\13-OOPDemo\obj\Debug\netcoreapp3.1\13-OOPDemo.csprojAssemblyReference.cache
+D:\C#\13-OOPDemo\obj\Debug\netcoreapp3.1\13-OOPDemo.AssemblyInfoInputs.cache
+D:\C#\13-OOPDemo\obj\Debug\netcoreapp3.1\13-OOPDemo.AssemblyInfo.cs
+D:\C#\13-OOPDemo\obj\Debug\netcoreapp3.1\13-OOPDemo.csproj.CoreCompileInputs.cache
+D:\C#\13-OOPDemo\obj\Debug\netcoreapp3.1\13-OOPDemo.dll
+D:\C#\13-OOPDemo\obj\Debug\netcoreapp3.1\13-OOPDemo.pdb
+D:\C#\13-OOPDemo\obj\Debug\netcoreapp3.1\13-OOPDemo.genruntimeconfig.cache

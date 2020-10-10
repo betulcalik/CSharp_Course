@@ -1,0 +1,13 @@
+D:\C#\12-Abstracts\bin\Debug\netcoreapp3.1\12-Abstracts.exe
+D:\C#\12-Abstracts\bin\Debug\netcoreapp3.1\12-Abstracts.deps.json
+D:\C#\12-Abstracts\bin\Debug\netcoreapp3.1\12-Abstracts.runtimeconfig.json
+D:\C#\12-Abstracts\bin\Debug\netcoreapp3.1\12-Abstracts.runtimeconfig.dev.json
+D:\C#\12-Abstracts\bin\Debug\netcoreapp3.1\12-Abstracts.dll
+D:\C#\12-Abstracts\bin\Debug\netcoreapp3.1\12-Abstracts.pdb
+D:\C#\12-Abstracts\obj\Debug\netcoreapp3.1\12-Abstracts.csprojAssemblyReference.cache
+D:\C#\12-Abstracts\obj\Debug\netcoreapp3.1\12-Abstracts.AssemblyInfoInputs.cache
+D:\C#\12-Abstracts\obj\Debug\netcoreapp3.1\12-Abstracts.AssemblyInfo.cs
+D:\C#\12-Abstracts\obj\Debug\netcoreapp3.1\12-Abstracts.csproj.CoreCompileInputs.cache
+D:\C#\12-Abstracts\obj\Debug\netcoreapp3.1\12-Abstracts.dll
+D:\C#\12-Abstracts\obj\Debug\netcoreapp3.1\12-Abstracts.pdb
+D:\C#\12-Abstracts\obj\Debug\netcoreapp3.1\12-Abstracts.genruntimeconfig.cache
