@@ -1,0 +1,7 @@
+D:\C#\19-Attributes\Attributes\Attributes\bin\Debug\Attributes.exe.config
+D:\C#\19-Attributes\Attributes\Attributes\bin\Debug\Attributes.exe
+D:\C#\19-Attributes\Attributes\Attributes\bin\Debug\Attributes.pdb
+D:\C#\19-Attributes\Attributes\Attributes\obj\Debug\Attributes.csprojAssemblyReference.cache
+D:\C#\19-Attributes\Attributes\Attributes\obj\Debug\Attributes.csproj.CoreCompileInputs.cache
+D:\C#\19-Attributes\Attributes\Attributes\obj\Debug\Attributes.exe
+D:\C#\19-Attributes\Attributes\Attributes\obj\Debug\Attributes.pdb
